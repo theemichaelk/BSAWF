@@ -37,7 +37,7 @@ Click==6.4
 # This line is different than what's on video but we do cover this update in
 # more detail in the October 2019 update video.
 redis==3.3.7
-celery==4.3.0
+celery==5.2.2
 
 # Forms.
 Flask-WTF==0.9.5
